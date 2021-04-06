@@ -1,0 +1,28 @@
+body {
+	background-color: ghostwhite;
+}
+h1 {
+	text-align: center;
+}
+.subtitle {
+	padding-left: 200px;
+}
+.peer {
+	color: purple;
+}
+.info {
+	padding-left: 200px;
+}
+
+.onair {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+.hyperlink {
+	padding-left: 260px;
+}
+.the_show {
+	padding-left: 200px;
+}
