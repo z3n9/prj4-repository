@@ -10,6 +10,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
+	font-family: "Audiowide", sans-serif;
 }
 .title_border {
 	border: dashed;
@@ -21,13 +22,13 @@ h1 {
 	text-align: center;
 }
 .subtitle {
-	padding-left: 120px;
+	text-align: center;
 }
 .peer {
 	color: purple;
 }
 .info {
-	padding-left: 253px;
+	padding-left: 150px;
 }
 
 .onair {
