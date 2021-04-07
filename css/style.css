@@ -1,3 +1,8 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
 body {
 	background-color: ghostwhite;
 }
@@ -30,6 +35,6 @@ h1 {
 .hyperlink {
 	padding-left: 260px;
 }
-.the_show {
+#the_show {
 	padding-left: 200px;
 }
