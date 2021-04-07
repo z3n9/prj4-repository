@@ -28,7 +28,7 @@ h1 {
 	color: purple;
 }
 .info {
-	padding-left: 150px;
+	text-align: center;
 }
 
 .onair {
@@ -37,10 +37,11 @@ h1 {
 	margin-right: auto;
 	width: 50%;
 	height: auto;
+	align-content: center;
 }
 .hyperlink {
-	padding-left: 260px;
+	text-align: center;
 }
 #the_show {
-	padding-left: 200px;
+	padding-left: 300px;
 }
