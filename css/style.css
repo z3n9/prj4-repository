@@ -5,6 +5,11 @@
 
 body {
 	background-color: ghostwhite;
+	background-image: url("../images/listen_icon.svg");
+	background-blend-mode: overlay;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 .title_border {
 	border: dashed;
