@@ -9,7 +9,7 @@ body {
 	background-blend-mode: overlay;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: cover;
+	background-size: contain;
 }
 .title_border {
 	border: dashed;
